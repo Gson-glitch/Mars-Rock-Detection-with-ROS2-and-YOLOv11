@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['mars-rocks']
+
+roboflow:
+  workspace: ritesh-laf7m
+  project: mars-rocks-detection
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ritesh-laf7m/mars-rocks-detection/dataset/4

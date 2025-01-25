@@ -1,0 +1,5 @@
+.vscode/
+.idea/
+src/**/build/
+src/**/log/
+src/**/install/
